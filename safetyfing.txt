@@ -1,0 +1,3 @@
+safetyinfo=google/Google/bluejay/bluejay_beta/bluejay/ZP11.260918.007/2026-10-05/32/16
+
+safetyfing=google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys

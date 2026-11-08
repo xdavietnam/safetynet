@@ -1,3 +1,3 @@
-safetyinfo=google/Google/kodiak/kodiak/Pixel 11 Pro XL/CD1A.261005.003/2026-10-05/32/16
+safetyinfo=google/Google/bluejay/bluejay_beta/Pixel 6a/ZP11.260918.007/2026-10-05/32/16
 
-safetyfing=google/kodiak/kodiak:17/CD1A.261005.003/16262255:user/release-keys
+safetyfing=google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys
